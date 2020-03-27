@@ -58,7 +58,7 @@ class AgriLife_Coronavirus_Alert {
 	 */
 	public function alert() {
 
-		$message = '<div class="ag-covid-notification">Click for a hub of Extension resources related to the current COVID-19 situation. <a href="https://agrilifeextension.tamu.edu/coronavirus/">COVID-19 Resources</a></div>';
+		$message = '<div class="ag-covid-notification">Click for a hub of Extension resources related to the current COVID-19 situation. <div class="agrilife-coronavirus-alert-button"><a href="https://agrilifeextension.tamu.edu/coronavirus/">COVID-19 Resources</a></div></div>';
 		echo wp_kses_post( $message );
 
 	}
