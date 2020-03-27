@@ -1,0 +1,19 @@
+{
+  "name": "agrilife-coronavirus-alert",
+  "version": "1.0.0",
+  "description": "Provide a banner to all pages of a site which provides a link to Extension resources related to the current COVID-19 situation.",
+  "main": "agrilife-coronavirus-alert.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgriLife/agrilife-coronavirus-alert.git"
+  },
+  "author": "Zachary Watkins",
+  "license": "GPL-2.0+",
+  "bugs": {
+    "url": "https://github.com/AgriLife/agrilife-coronavirus-alert/issues"
+  },
+  "homepage": "https://github.com/AgriLife/agrilife-coronavirus-alert#readme"
+}

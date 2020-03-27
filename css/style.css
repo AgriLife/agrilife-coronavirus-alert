@@ -1,0 +1,26 @@
+.ag-covid-notification {
+	background-color: #500000;
+	color: #FFF;
+	font: 400 16px/1.8 "proxima-nova", Arial, Helvetica, sans-serif;
+	padding: 0.5em 1em;
+	text-align: center;
+	width: 100%;
+	position: relative;
+	z-index: 99;
+}
+
+.ag-covid-notification a,
+.ag-covid-notification a:active,
+.ag-covid-notification a:hover {
+	background-color: rgba(0,0,0,0.5);
+	font-weight: 700;
+	color: #FFF;
+	text-decoration: none;
+	padding: 0.35em 1.25em;
+	margin-left: 0.67em;
+}
+
+.ag-covid-notification a:active,
+.ag-covid-notification a:hover {
+	opacity: 0.9;
+}
