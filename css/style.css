@@ -9,9 +9,14 @@
 	z-index: 99;
 }
 
+.agrilife-coronavirus-alert-button {
+display: inline-block;
+}
+
 .ag-covid-notification a,
 .ag-covid-notification a:active,
 .ag-covid-notification a:hover {
+display: block;
 	background-color: rgba(0,0,0,0.5);
 	font-weight: 700;
 	color: #FFF;
