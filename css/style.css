@@ -29,3 +29,13 @@ display: block;
 .ag-covid-notification a:hover {
 	opacity: 0.9;
 }
+
+/* AgriFlex2 */
+body.extensiononly .ag-covid-notification {
+	a,
+	a:active,
+	a:hover {
+		color: #FFF;
+		border: none;
+	}
+}
