@@ -31,11 +31,9 @@ display: block;
 }
 
 /* AgriFlex2 */
-body.extensiononly .ag-covid-notification {
-	a,
-	a:active,
-	a:hover {
-		color: #FFF;
-		border: none;
-	}
+body.extensiononly .ag-covid-notification a,
+body.extensiononly .ag-covid-notification a:active,
+body.extensiononly .ag-covid-notification a:hover {
+	color: #FFF;
+	border: none;
 }
