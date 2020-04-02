@@ -4,7 +4,7 @@
  *
  * @package      agrilife-coronavirus-alert
  * @author       Zachary Watkins
- * @copyright    2019 Texas A&M AgriLife Communications
+ * @copyright    2020 Texas A&M AgriLife Communications
  * @license      GPL-2.0+
  *
  * @wordpress-plugin
