@@ -1,6 +1,6 @@
 {
   "name": "agrilife-coronavirus-alert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provide a banner to all pages of a site which provides a link to Extension resources related to the current COVID-19 situation.",
   "main": "agrilife-coronavirus-alert.php",
   "scripts": {

@@ -46,7 +46,7 @@ class AgriLife_Coronavirus_Alert {
 		// Get Genesis setup the way we want it.
 		new \AgriLife_Coronavirus_Alert\Assets();
 
-		add_action( 'get_header', array( $this, 'alert' ) );
+		add_action( 'wp_head', array( $this, 'alert' ) );
 
 	}
 
